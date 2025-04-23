@@ -1,0 +1,17 @@
+.photo{
+    width: auto;
+    height: 480px;
+    background-color: blue
+}
+.college{
+    width: auto;
+    height: 400px;
+    background-color: violet
+}
+.department{
+    width: auto;
+    height: 400px;
+    background-color: pink
+
+}
+
